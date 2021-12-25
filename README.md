@@ -9,7 +9,9 @@ The purpose of this analysis is to create a webpage that allows users to search 
 
 ## Results 
 
-### The HTML page
+### The HTML Page
+
+![image](https://user-images.githubusercontent.com/90416094/147367712-2fb8ac3d-e916-4e9d-81b5-621b0a5657cd.png)
 
 
 
