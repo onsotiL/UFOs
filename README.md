@@ -15,8 +15,9 @@ The purpose of this analysis is to create a webpage that allows users to search 
 
 
 
-Search Criteria 
-This page allows for five different filters
+### Search Criteria 
+#### The page allows for five different filters
+![image](https://user-images.githubusercontent.com/90416094/147388996-7ed69adb-d980-4a3a-8404-4139298085a9.png)
 
 
 
