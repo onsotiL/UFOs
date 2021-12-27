@@ -5,7 +5,7 @@ Visual Studio Code, HTML/CSS, JavaScript, & BootStrap
 
 ## Overview of the analysis	
  
-The purpose of this analysis is to create a webpage that allows users to search for different sightings of UFOs that occurred in the United States. The original script enabled used to search by date. Further scripts were written to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria in addition to the date. Other criteria included filters for the city, state, country, and shape.
+The purpose of this analysis is to create a webpage that allows users to search for different sightings of UFOs that have occurred in the United States. The original script enabled used to search by date. Further scripts were written to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria in addition to the date. Other criteria included filters for the city, state, country, and shape.
 
 ## Results 
 
